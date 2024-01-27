@@ -1,0 +1,22 @@
+{
+    "name": "hariharan/thirukural",
+    "description": "Random Thirukural Generator",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit-mock-objects": "^9"
+    },
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Hariharan\\Thirukural\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hariharan Umapathi",
+            "email": "smarthariharan28@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
